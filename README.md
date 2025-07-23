@@ -14,7 +14,7 @@ Core Values: Human-first mindset, community-driven, and always eager to uplift t
 📚 Lifelong Learner
 Graduation was just the beginning. I’m constantly exploring new tools and frameworks, mastering web technologies and data science, and developing my soft skills and emotional intelligence — because I believe growth is a journey, not a destination.
 
-🚀 Projects & Collaborations
+🚀 Projects & Collaborations:
 Currently working on multiple basic projects to actively explore new technologies and enhance my development skills.
 Previously, I’ve worked on several machine learning and web development projects that laid the foundation for my interest in real-world problem-solving.
 👉 If you’d like to know more, feel free to check out my related repositories!
